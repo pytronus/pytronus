@@ -2,3 +2,4 @@ test string
 next string
 new string
 Add line
+new Line
